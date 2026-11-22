@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tư vấn trước khi thành lập công ty tại TP.HCM | Kế toán Vạn Xuân</title>
+<meta name="description" content="Kế toán Vạn Xuân tư vấn trước khi thành lập công ty: loại hình, tên, địa chỉ, ngành nghề, vốn điều lệ. Nội dung và phí tư vấn được thống nhất trước khi thực hiện.">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="canonical" href="https://ketoanvanxuan.vn/">
+<link rel="icon" href="https://ketoanvanxuan.vn/upload/hinhanh/logomobiketoanvanxuan-2306.png">
+<meta name="theme-color" content="#07304a">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="vi_VN">
+<meta property="og:site_name" content="Kế toán Vạn Xuân">
+<meta property="og:title" content="Tư vấn trước khi thành lập công ty | Kế toán Vạn Xuân">
+<meta property="og:description" content="Phân tích từng lựa chọn, rà soát điều kiện và làm rõ trách nhiệm trước khi bạn quyết định.">
+<meta property="og:url" content="https://ketoanvanxuan.vn/">
+<meta property="og:image" content="https://ketoanvanxuan.vn/upload/landing/doi-ngu-van-xuan.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preload" as="image" href="https://ketoanvanxuan.vn/upload/landing/doi-ngu-van-xuan.jpg" fetchpriority="high">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+{"@type":"AccountingService","@id":"https://ketoanvanxuan.vn/#org","name":"Kế toán Vạn Xuân","legalName":"CÔNG TY TNHH DỊCH VỤ DOANH NGHIỆP VẠN XUÂN","url":"https://ketoanvanxuan.vn/","telephone":"+84933337683","email":"kttvanxuan@gmail.com","logo":"https://ketoanvanxuan.vn/upload/hinhanh/logomobiketoanvanxuan-2306.png","image":"https://ketoanvanxuan.vn/upload/landing/doi-ngu-van-xuan.jpg","slogan":"Luôn đồng hành cùng Doanh nghiệp",
+"address":{"@type":"PostalAddress","streetAddress":"Số 01, Đường số 05, KDC Lê Thành, P. An Lạc","addressLocality":"TP. Hồ Chí Minh","addressCountry":"VN"},"areaServed":"TP. Hồ Chí Minh",
+"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"07:50","closes":"17:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"07:50","closes":"12:00"}]},
+{"@type":"Service","name":"Tư vấn trước khi thành lập công ty","provider":{"@id":"https://ketoanvanxuan.vn/#org"},"serviceType":"Tư vấn pháp lý doanh nghiệp","areaServed":"TP. Hồ Chí Minh","description":"Tư vấn lựa chọn loại hình, tên công ty, địa chỉ trụ sở, ngành nghề, vốn điều lệ, người đại diện theo pháp luật và người góp vốn trước khi đăng ký doanh nghiệp."}]}
+</script>
+<style>
+:root{--brand:#129ad2;--brand-2:#31A6D4;--brand-dark:#0b6f9c;--navy:#07304a;--navy-2:#0a4263;--sky:#eaf6fc;--sky-2:#f5fbfe;--gold:#f5b62e;--ink:#12283a;--muted:#5b7183;--line:#dcebf3;--radius:18px;--shadow:0 18px 50px -20px rgba(7,48,74,.35)}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;scroll-padding-top:84px}
+html,body{overflow-x:hidden}
+body{font-family:'Be Vietnam Pro',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;color:var(--ink);background:#fff;line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}ul,ol{list-style:none}img,video{max-width:100%}
+button{font-family:inherit;cursor:pointer;border:0;background:none}
+.container{width:min(1160px,92%);margin-inline:auto}
+section{padding:88px 0;position:relative}
+.ic{width:20px;height:20px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.eyebrow{display:inline-flex;align-items:center;gap:10px;font-size:12.5px;font-weight:700;letter-spacing:.14em;color:var(--brand-dark);text-transform:uppercase;margin-bottom:14px}
+.eyebrow::before{content:"";width:28px;height:2px;background:var(--gold)}
+h1,h2,h3{line-height:1.22;color:var(--navy);letter-spacing:-.01em}
+h2{font-size:clamp(28px,3.6vw,42px);font-weight:800;margin-bottom:14px}
+.lead{color:var(--muted);font-size:17px;max-width:680px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:14px 24px;border-radius:999px;font-weight:700;font-size:15px;transition:transform .25s,background .25s,color .25s;white-space:nowrap}
+.btn-primary{background:var(--brand);color:#fff;box-shadow:0 12px 26px -12px rgba(18,154,210,.75)}
+.btn-primary:hover{transform:translateY(-3px);background:var(--brand-dark)}
+.btn-ghost{border:1.5px solid rgba(255,255,255,.45);color:#fff}.btn-ghost:hover{background:#fff;color:var(--navy)}
+.btn-outline{border:1.5px solid var(--brand);color:var(--brand-dark);background:#fff}.btn-outline:hover{background:var(--brand);color:#fff}
+/* header */
+.header{position:fixed;inset:0 0 auto 0;z-index:50;transition:background .3s,box-shadow .3s,padding .3s;padding:16px 0}
+.header.scrolled{background:rgba(255,255,255,.96);box-shadow:0 6px 24px -14px rgba(7,48,74,.4);padding:10px 0}
+.header .container{display:flex;align-items:center;justify-content:space-between;gap:20px}
+.logo{display:flex;align-items:center;gap:12px;font-weight:800;color:#fff;font-size:18px}
+.logo img{height:44px;width:auto;border-radius:10px;background:#fff;padding:4px}
+.logo small{display:block;font-size:11px;font-weight:500;letter-spacing:.08em;opacity:.8;text-transform:uppercase;white-space:nowrap}
+.header.scrolled .logo{color:var(--navy)}
+.nav{display:flex;align-items:center;gap:20px;font-size:14px;font-weight:600;color:rgba(255,255,255,.9)}
+.header.scrolled .nav{color:var(--ink)}
+.nav a{position:relative;padding:6px 0;white-space:nowrap}
+.nav a:not(.btn)::after{content:"";position:absolute;left:0;bottom:0;height:2px;width:0;background:var(--gold);transition:width .3s}
+.nav a:not(.btn):hover::after{width:100%}
+.nav .btn{padding:11px 20px;color:#fff}
+@media(max-width:1180px){.nav a.long{display:none}}
+@media(max-width:900px){.nav a:not(.btn){display:none}}
+/* hero 50/50 */
+.hero{background:linear-gradient(135deg,var(--navy),var(--navy-2) 70%,#0c5a82);color:#fff;padding:132px 0 88px}
+.hero .container{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;align-items:center}
+.hero .container>*,.tabs>*,.media-row>*,.wrap>*{min-width:0}
+.tag{display:inline-flex;align-items:center;gap:10px;padding:8px 16px;border-radius:999px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.22);font-size:12.5px;font-weight:700;letter-spacing:.12em}
+.tag i{width:8px;height:8px;border-radius:50%;background:var(--gold)}
+.hero h1{color:#fff;font-size:clamp(30px,3.5vw,46px);font-weight:800;margin:18px 0 16px}
+.hero h1 em{font-style:normal;color:#8fdcfb}
+.hero h1 span{display:block;font-size:.5em;font-weight:600;color:rgba(255,255,255,.85);margin-top:10px}
+.price{display:inline-flex;align-items:baseline;gap:10px;margin-bottom:18px;padding:10px 20px;border-radius:14px;background:rgba(255,255,255,.08);border:1px dashed rgba(255,255,255,.3)}
+.price b{font-size:32px;font-weight:800;color:var(--gold)}.price span{font-size:14px;opacity:.85}
+.hero p{color:rgba(255,255,255,.86);font-size:16px;margin-bottom:12px}
+.hero .cta{display:flex;flex-wrap:wrap;gap:14px;margin:24px 0 22px}
+.chips{display:flex;flex-wrap:wrap;gap:10px}
+.chips li{display:flex;align-items:center;gap:8px;font-size:14px;font-weight:600;padding:8px 14px;border-radius:999px;background:rgba(255,255,255,.08)}
+.chips .ic{width:16px;height:16px;color:var(--gold);stroke-width:3}
+.hero-media{margin:0;width:100%;animation:rise 1s .2s both cubic-bezier(.2,.8,.2,1)}
+@keyframes rise{from{opacity:0;transform:translateY(36px)}to{opacity:1;transform:none}}
+.hero-frame{position:relative;aspect-ratio:3/2;border-radius:20px;overflow:hidden;background:linear-gradient(135deg,#0a4263,#0c5a82);box-shadow:0 30px 60px -30px rgba(0,0,0,.6)}
+.hero-frame img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 35%}
+.hero-frame .ph{position:absolute;inset:0;display:none;place-items:center;text-align:center;padding:24px;color:rgba(255,255,255,.85);font-weight:700}
+.hero-frame.noimg img{display:none}.hero-frame.noimg .ph{display:grid}
+.hero-check{position:relative;background:#fff;color:var(--ink);border-radius:18px;padding:16px;margin:-30px 16px 0;box-shadow:0 24px 50px -24px rgba(0,0,0,.5)}
+.check-title{font-weight:700;color:var(--navy);margin-bottom:10px;font-size:15px}
+.check-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+.check-grid div{display:flex;flex-direction:column;align-items:center;gap:6px;padding:10px 4px;border-radius:12px;background:var(--sky);font-weight:600;font-size:13px;text-align:center}
+.check-grid .ic{color:var(--brand)}
+.hero-media figcaption{font-size:12.5px;line-height:1.55;color:rgba(255,255,255,.75);margin:12px 4px 0}
+@media(max-width:960px){.hero{padding:112px 0 64px}.hero .container{grid-template-columns:minmax(0,1fr);gap:36px}.hero h1{font-size:clamp(30px,7vw,40px)}}
+@media(max-width:480px){.check-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.hero .cta .btn{width:100%}}
+/* reveal */
+.reveal{opacity:0;transform:translateY(34px);transition:opacity .8s cubic-bezier(.2,.8,.2,1),transform .8s cubic-bezier(.2,.8,.2,1);transition-delay:var(--d,0s)}
+.reveal.in{opacity:1;transform:none}
+.bg{background:var(--sky-2)}
+/* tabs */
+.tabs{display:grid;grid-template-columns:320px minmax(0,1fr);gap:28px;margin-top:44px}
+.tab-list{display:flex;flex-direction:column;gap:8px}
+.tab-btn{display:flex;align-items:center;gap:14px;text-align:left;padding:15px 18px;border-radius:14px;font-weight:600;font-size:15px;color:var(--ink);background:#fff;border:1px solid var(--line);transition:all .25s}
+.tab-btn span{font-size:12.5px;font-weight:800;color:var(--brand);width:26px}
+.tab-btn:hover{transform:translateX(6px);border-color:var(--brand-2)}
+.tab-btn.active{background:var(--brand);color:#fff;border-color:transparent}.tab-btn.active span{color:var(--gold)}
+.tab-panel{background:#fff;border-radius:24px;padding:38px;border:1px solid var(--line);box-shadow:var(--shadow);min-height:440px}
+.swap{animation:swap .5s cubic-bezier(.2,.8,.2,1)}
+@keyframes swap{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+.panel-top{display:flex;justify-content:space-between;font-size:12.5px;font-weight:700;letter-spacing:.14em;color:var(--muted);margin-bottom:18px}
+.panel-top b{color:var(--brand)}
+.kicker{font-weight:700;color:var(--brand-dark);font-size:14.5px}
+.tab-panel h3{font-size:clamp(22px,2.6vw,30px);font-weight:800;margin:6px 0 10px}
+.tab-panel>p{color:var(--muted);margin-bottom:20px}
+.tab-panel ul{display:grid;gap:12px;margin-bottom:24px}
+.tab-panel li{position:relative;padding-left:26px;font-size:15.5px}
+.tab-panel li::before{content:"✓";position:absolute;left:0;color:var(--brand);font-weight:800}
+.result{padding:18px 20px;border-radius:16px;background:#fffaf0;border:1px solid #f6e2ae;margin-bottom:24px}
+.result small{display:block;font-size:12px;font-weight:800;letter-spacing:.12em;color:#a8780c;text-transform:uppercase}
+.result p{font-weight:600;color:var(--navy)}
+@media(max-width:900px){.tabs{grid-template-columns:minmax(0,1fr)}.tab-list{flex-direction:row;overflow-x:auto;padding-bottom:8px}.tab-btn{flex:none}.tab-btn:hover{transform:none}.tab-panel{padding:26px}}
+/* cards */
+.grid-3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;margin-top:40px}
+.grid-2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;margin-top:26px}
+.card{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:28px;transition:transform .35s,box-shadow .35s,border-color .35s}
+.card:hover{transform:translateY(-6px);box-shadow:var(--shadow);border-color:var(--brand-2)}
+.num{font-size:15px;font-weight:800;letter-spacing:.1em;color:var(--brand);margin-bottom:10px}
+.card h3{font-size:18.5px;margin-bottom:6px}
+.card small{display:block;color:var(--brand-dark);font-weight:600;font-size:13.5px;margin-bottom:8px}
+.card p{color:var(--muted);font-size:15px}
+@media(max-width:900px){.grid-3,.grid-2{grid-template-columns:minmax(0,1fr)}}
+/* gallery */
+.media-row{display:grid;grid-template-columns:1.2fr .85fr 1.15fr;gap:18px;margin-top:40px}
+.tile{position:relative;margin:0;height:460px;border-radius:18px;overflow:hidden;background:#06263a;box-shadow:var(--shadow)}
+.tile img,.tile video{display:block;width:100%;height:100%}
+.tile img{object-fit:cover;cursor:zoom-in;transition:transform .6s}.tile:hover img{transform:scale(1.04)}
+.tile video{object-fit:contain;background:#000}
+.tile figcaption{position:absolute;left:0;right:0;bottom:0;padding:40px 16px 14px;background:linear-gradient(transparent,rgba(5,31,49,.88));color:#fff;font-size:13.5px;pointer-events:none}
+.tile.video figcaption{top:0;bottom:auto;padding:14px 16px 40px;background:linear-gradient(rgba(5,31,49,.8),transparent)}
+.small{margin-top:18px;font-size:13.5px;color:var(--muted)}
+@media(max-width:900px){.media-row{grid-template-columns:minmax(0,1fr)}.tile{height:auto}.tile img{height:auto}.tile video{height:auto;max-height:72vh}}
+/* dark sections */
+.dark{background:linear-gradient(160deg,var(--navy),var(--navy-2));color:#fff}
+.dark h2,.dark h3{color:#fff}.dark .lead{color:rgba(255,255,255,.8)}.dark .eyebrow{color:#8fdcfb}
+.head{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;flex-wrap:wrap}
+.acts{display:flex;gap:12px;flex-wrap:wrap}
+.step{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:var(--radius);padding:28px;transition:transform .35s,background .35s}
+.step:hover{transform:translateY(-8px);background:rgba(255,255,255,.11)}
+.step i{display:grid;place-items:center;width:56px;height:56px;border-radius:50%;font-style:normal;font-weight:800;font-size:22px;background:var(--brand);margin-bottom:18px}
+.step h3{font-size:19px;margin-bottom:8px}.step p{color:rgba(255,255,255,.78);font-size:15px}
+/* self */
+.wrap{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:50px;align-items:start}
+.official{margin-top:26px;padding:22px;border-radius:18px;background:var(--sky);border:1px solid var(--line)}
+.official p{font-size:13.5px;color:var(--muted);margin-top:10px}
+.timeline{display:grid;gap:16px}
+.tl{display:flex;gap:18px;background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px 22px;transition:transform .3s,box-shadow .3s}
+.tl:hover{transform:translateX(8px);box-shadow:var(--shadow)}
+.tl b{flex:none;width:48px;height:48px;border-radius:14px;background:var(--navy);color:#fff;display:grid;place-items:center}
+.tl h3{font-size:17.5px;margin-bottom:4px}.tl p{font-size:14.5px;color:var(--muted)}
+.disclaimer{margin-top:28px;padding:18px 22px;border-left:4px solid var(--gold);background:#fffaf0;border-radius:0 14px 14px 0;font-size:14.5px;color:#5c4a1c}
+@media(max-width:900px){.wrap{grid-template-columns:minmax(0,1fr)}}
+/* tax */
+.sub-h{font-size:22px;font-weight:800;margin-top:50px}
+.notice{margin:26px 0;padding:20px 24px;border-radius:16px;background:var(--brand-dark);color:#fff;font-size:15px}
+.refs{margin-top:30px;padding:24px;border-radius:16px;border:1px dashed #b9d9e8;background:#fff}
+.refs h4{font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--brand-dark);margin-bottom:12px}
+.refs ul{display:grid;grid-template-columns:1fr 1fr;gap:8px 24px;font-size:14.5px;color:var(--muted)}
+@media(max-width:900px){.refs ul{grid-template-columns:1fr}}
+/* faq */
+.center{text-align:center}.center .lead{margin-inline:auto}
+.faq-list{max-width:860px;margin:40px auto 0;display:grid;gap:12px}
+.faq{border:1px solid var(--line);border-radius:16px;background:#fff;transition:box-shadow .3s,border-color .3s}
+.faq[open]{box-shadow:var(--shadow);border-color:var(--brand-2)}
+.faq summary{display:flex;align-items:center;gap:16px;padding:20px 22px;font-weight:700;font-size:16.5px;color:var(--navy);cursor:pointer;list-style:none}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";margin-left:auto;flex:none;width:30px;height:30px;border-radius:50%;background:var(--sky);display:grid;place-items:center;color:var(--brand-dark);transition:transform .3s}
+.faq[open] summary::after{transform:rotate(45deg);background:var(--brand);color:#fff}
+.faq p{padding:0 22px 22px;color:var(--muted);font-size:15.5px;animation:swap .4s}
+/* contact */
+.info li{display:flex;gap:14px;padding:14px 0;border-bottom:1px solid rgba(255,255,255,.12);font-size:15px;color:rgba(255,255,255,.88)}
+.info .ic{margin-top:3px;color:var(--gold)}.info b{color:#fff}
+form{background:#fff;color:var(--ink);border-radius:24px;padding:34px;box-shadow:0 40px 80px -30px rgba(0,0,0,.5)}
+form h3{font-size:22px;margin-bottom:6px;color:var(--navy)}
+form>p{font-size:14px;color:var(--muted);margin-bottom:20px}
+.field{margin-bottom:14px}
+.field label{display:block;font-size:13.5px;font-weight:600;margin-bottom:6px}
+.field input,.field select,.field textarea{width:100%;padding:13px 15px;border:1.5px solid var(--line);border-radius:12px;font:inherit;font-size:16px;color:var(--ink);background:var(--sky-2);transition:border-color .25s,box-shadow .25s}
+.field :focus{outline:0;border-color:var(--brand);box-shadow:0 0 0 4px rgba(18,154,210,.15)}
+.consent{display:flex;gap:10px;font-size:13px;color:var(--muted);margin:6px 0 18px}
+.consent input{margin-top:4px;accent-color:var(--brand);flex:none}
+.consent a{color:var(--brand-dark);text-decoration:underline}
+form .btn{width:100%}
+.warn{font-size:12.5px;color:var(--muted);margin-top:14px;text-align:center}
+.form-msg{display:none;margin-top:14px;padding:12px 16px;border-radius:12px;font-size:14.5px;font-weight:600}
+/* footer */
+footer{background:#051f31;color:rgba(255,255,255,.72);padding:54px 0 96px;font-size:14.5px}
+footer h4{color:#fff;font-size:15px;margin-bottom:14px}
+footer li{margin-bottom:8px}
+footer a:hover,footer button:hover{color:#fff;text-decoration:underline}
+footer button{color:inherit;font-size:inherit;text-align:left}
+.legal{margin-top:34px;padding-top:22px;border-top:1px solid rgba(255,255,255,.12);font-size:13.5px;display:grid;gap:10px}
+.legal strong{color:#fff}
+/* floating */
+.mobile-bar{position:fixed;left:0;right:0;bottom:0;z-index:60;display:none;grid-template-columns:1fr 1fr 1.4fr;background:#fff;box-shadow:0 -8px 24px -10px rgba(7,48,74,.35)}
+.mobile-bar a{padding:14px 6px;text-align:center;font-weight:700;font-size:14px;color:var(--navy)}
+.mobile-bar a:last-child{background:var(--brand);color:#fff}
+.fab{position:fixed;right:22px;bottom:26px;z-index:55;display:grid;gap:12px}
+.fab a{width:54px;height:54px;border-radius:50%;display:grid;place-items:center;color:#fff;box-shadow:0 12px 26px -8px rgba(7,48,74,.6);transition:transform .25s;position:relative}
+.fab a:hover{transform:scale(1.1)}
+.fab .call{background:var(--brand)}
+.fab .call::before{content:"";position:absolute;inset:0;border-radius:50%;border:2px solid var(--brand);animation:ring 2s infinite}
+@keyframes ring{to{transform:scale(1.7);opacity:0}}
+.fab .zalo{background:#0068ff;font-weight:800;font-size:13px}
+@media(max-width:700px){.mobile-bar{display:grid}.fab{display:none}section{padding:64px 0}}
+/* modal */
+.modal{position:fixed;inset:0;z-index:100;background:rgba(5,31,49,.78);display:none;align-items:center;justify-content:center;padding:20px}
+.modal.show{display:flex}
+.modal-box{background:#fff;border-radius:22px;max-width:720px;width:100%;max-height:88vh;overflow:auto;padding:36px;position:relative;animation:swap .4s}
+.modal-box h3{font-size:24px;margin-bottom:14px}
+.modal-box h4{margin:18px 0 6px;color:var(--navy);font-size:16px}
+.modal-box p{color:var(--muted);font-size:15px}
+.modal-box .zoom{display:block;width:100%;max-height:72vh;object-fit:contain;border-radius:12px;margin-bottom:12px}
+.modal-close{position:absolute;top:12px;right:12px;width:38px;height:38px;border-radius:50%;background:var(--sky);font-size:20px;color:var(--navy)}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}.reveal{opacity:1;transform:none}html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<svg style="display:none" aria-hidden="true">
+<symbol id="i-check" viewBox="0 0 24 24"><path d="M5 12l5 5L20 7"/></symbol>
+<symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+<symbol id="i-name" viewBox="0 0 24 24"><path d="M4 7h16M4 12h10M4 17h7"/></symbol>
+<symbol id="i-bag" viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 012-2h4a2 2 0 012 2v2"/></symbol>
+<symbol id="i-coin" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v10M9 10h4.5a1.5 1.5 0 010 3H10a1.5 1.5 0 000 3h5"/></symbol>
+<symbol id="i-home" viewBox="0 0 24 24"><path d="M3 21h18M5 21V8l7-5 7 5v13M10 21v-6h4v6"/></symbol>
+<symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 21s7-6.2 7-11.5A7 7 0 005 9.5C5 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></symbol>
+<symbol id="i-phone" viewBox="0 0 24 24"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 005 5L15 13l5 2v4a2 2 0 01-2 2A16 16 0 013 6a2 2 0 012-2z"/></symbol>
+<symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></symbol>
+<symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+</svg>
+
+<header class="header" id="header">
+  <div class="container">
+    <a href="#top" class="logo" aria-label="Kế toán Vạn Xuân">
+      <img src="https://ketoanvanxuan.vn/upload/hinhanh/logomobiketoanvanxuan-2306.png" width="44" height="44" alt="Logo Kế toán Vạn Xuân" onerror="this.style.display='none'">
+      <div>Vạn Xuân<small>Kế toán · Pháp lý doanh nghiệp</small></div>
+    </a>
+    <nav class="nav" aria-label="Điều hướng chính">
+      <a href="#noi-dung">Nội dung tư vấn</a>
+      <a href="#hinh-anh">Hình ảnh thực tế</a>
+      <a href="#quy-trinh">Quy trình</a>
+      <a href="#khai-thue" class="long">Mới thành lập? Xem dịch vụ khai thuế</a>
+      <a href="#faq">Hỏi đáp</a>
+      <a href="#lien-he" class="btn btn-primary">Nhận tư vấn</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+<section class="hero" id="top">
+  <div class="container">
+    <div>
+      <span class="tag reveal"><i></i>DÀNH CHO NGƯỜI CHUẨN BỊ KINH DOANH</span>
+      <h1 class="reveal" style="--d:.1s">Tư vấn trước khi <em>thành lập công ty</em><span>Cùng Kế toán Vạn Xuân</span></h1>
+      <!-- LƯU Ý: thay bằng mức phí tư vấn thực tế của Vạn Xuân -->
+      <div class="price reveal" style="--d:.2s"><span>Chỉ</span><b>1.500.000đ</b></div>
+      <p class="reveal" style="--d:.25s">Bạn cần có tên công ty không trùng hoặc gây nhầm lẫn, ngành nghề đăng ký đúng nhu cầu kinh doanh, vốn điều lệ phù hợp và lựa chọn đúng loại hình doanh nghiệp.</p>
+      <p class="reveal" style="--d:.3s">Vạn Xuân phân tích từng lựa chọn, rà soát điều kiện và làm rõ trách nhiệm trước khi bạn quyết định.</p>
+      <div class="cta reveal" style="--d:.35s">
+        <a href="#lien-he" class="btn btn-primary">Nhận tư vấn trước khi thành lập <svg class="ic"><use href="#i-arrow"/></svg></a>
+        <a href="#noi-dung" class="btn btn-ghost">Xem nội dung tư vấn</a>
+      </div>
+      <ul class="chips reveal" style="--d:.4s">
+        <li><svg class="ic"><use href="#i-check"/></svg>Đúng nhu cầu</li>
+        <li><svg class="ic"><use href="#i-check"/></svg>Rõ điều kiện</li>
+        <li><svg class="ic"><use href="#i-check"/></svg>Hiểu trách nhiệm</li>
+      </ul>
+    </div>
+    <figure class="hero-media">
+      <div class="hero-frame">
+        <img data-media="team" width="1200" height="800" fetchpriority="high" decoding="async" alt="Đội ngũ Công ty TNHH Dịch vụ Doanh nghiệp Vạn Xuân tại văn phòng công ty" onerror="this.parentNode.classList.add('noimg')">
+        <div class="ph">CÔNG TY TNHH DỊCH VỤ DOANH NGHIỆP<br>VẠN XUÂN</div>
+      </div>
+      <div class="hero-check">
+        <p class="check-title">Kiểm tra trước khi quyết định</p>
+        <div class="check-grid">
+          <div><svg class="ic"><use href="#i-name"/></svg>Tên</div>
+          <div><svg class="ic"><use href="#i-bag"/></svg>Ngành nghề</div>
+          <div><svg class="ic"><use href="#i-coin"/></svg>Vốn</div>
+          <div><svg class="ic"><use href="#i-home"/></svg>Loại hình</div>
+        </div>
+      </div>
+      <figcaption>Đội ngũ Vạn Xuân tại văn phòng công ty. Vạn Xuân là đơn vị tư vấn pháp lý tư nhân, không phải là cơ quan nhà nước hay cổng dịch vụ công của chính phủ.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="bg" id="noi-dung">
+  <div class="container">
+    <span class="eyebrow reveal">01 / Tư vấn trước khi thành lập</span>
+    <h2 class="reveal">Nội dung chúng tôi<br>tư vấn cho bạn</h2>
+    <p class="lead reveal">Hãy chọn đúng từ đầu, hạn chế việc hồ sơ phải sửa đi sửa lại. Chọn nội dung bên dưới để xem Vạn Xuân tư vấn những gì.</p>
+    <div class="tabs reveal">
+      <div class="tab-list" id="tabList" role="tablist"></div>
+      <article class="tab-panel" id="tabPanel" role="tabpanel" aria-live="polite"></article>
+    </div>
+  </div>
+</section>
+
+<section id="ket-qua">
+  <div class="container">
+    <span class="eyebrow reveal">Kết quả của buổi tư vấn</span>
+    <h2 class="reveal">Sau tư vấn,<br>bạn cần rõ những gì?</h2>
+    <div class="grid-3">
+      <div class="card reveal"><div class="num">01</div><h3>Thông tin lựa chọn</h3><p>Loại hình, tên, địa chỉ, ngành nghề và vốn phù hợp kế hoạch kinh doanh.</p></div>
+      <div class="card reveal" style="--d:.12s"><div class="num">02</div><h3>Điều kiện phải đáp ứng</h3><p>Điểm cần kiểm tra về trụ sở, ngành nghề và tư cách người tham gia.</p></div>
+      <div class="card reveal" style="--d:.24s"><div class="num">03</div><h3>Trách nhiệm của từng người</h3><p>Ai góp vốn, ai đại diện, ai có quyền quyết định và nghĩa vụ gì.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="bg" id="hinh-anh">
+  <div class="container">
+    <span class="eyebrow reveal">Hình ảnh thực tế</span>
+    <h2 class="reveal">Vạn Xuân – Người bạn đồng hành<br>của Doanh nghiệp</h2>
+    <p class="lead reveal">Ở Vạn Xuân, chúng tôi chọn cách lắng nghe trước khi giải pháp được đưa ra, chọn sự tận tâm trước mọi con số.</p>
+    <!-- SỬA: xác nhận lại chú thích video và 2 ảnh -->
+    <div class="media-row">
+      <figure class="tile video reveal">
+        <video data-media="video" controls playsinline preload="metadata" aria-label="Video hoạt động của Kế toán Vạn Xuân"></video>
+        <figcaption>Video do Vạn Xuân ghi lại</figcaption>
+      </figure>
+      <figure class="tile reveal" style="--d:.1s">
+        <img data-media="photo1" data-zoom loading="lazy" decoding="async" width="768" height="1024" style="object-position:35% 30%" alt="Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm chụp tại một quán đồ uống">
+        <figcaption>Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm tại một quán đồ uống</figcaption>
+      </figure>
+      <figure class="tile reveal" style="--d:.2s">
+        <img data-media="photo2" data-zoom loading="lazy" decoding="async" width="1024" height="757" style="object-position:46% 50%" alt="Hình chụp cùng hồ sơ tại một tiệm bánh và tráng miệng">
+        <figcaption>Hình chụp cùng hồ sơ tại một tiệm bánh &amp; tráng miệng</figcaption>
+      </figure>
+    </div>
+    <p class="small reveal">Ngoài tư vấn trước khi thành lập, Vạn Xuân còn có dịch vụ về an toàn thực phẩm. Hình ảnh ghi lại hoạt động thực tế; kết quả từng hồ sơ do cơ quan có thẩm quyền xem xét, quyết định.</p>
+  </div>
+</section>
+
+<section class="dark" id="quy-trinh">
+  <div class="container">
+    <div class="head">
+      <div>
+        <span class="eyebrow reveal">02 / Quy trình tư vấn</span>
+        <h2 class="reveal">Vạn Xuân tư vấn theo 3 bước</h2>
+        <p class="lead reveal">Nội dung và phí tư vấn được thống nhất trước khi thực hiện.</p>
+      </div>
+      <div class="acts reveal">
+        <a class="btn btn-ghost" href="https://zalo.me/0933337683" target="_blank" rel="noopener">Nhắn Zalo</a>
+        <a class="btn btn-primary" href="tel:0933337683">Gọi tư vấn</a>
+      </div>
+    </div>
+    <div class="grid-3">
+      <div class="step reveal"><i>1</i><h3>Bạn cung cấp dự định</h3><p>Hoạt động kinh doanh, địa chỉ dự kiến, người cùng góp vốn và những việc bạn còn phân vân.</p></div>
+      <div class="step reveal" style="--d:.15s"><i>2</i><h3>Vạn Xuân phân tích phương án</h3><p>So sánh lựa chọn, rà soát điều kiện, chỉ rõ điểm cần điều chỉnh và trách nhiệm liên quan.</p></div>
+      <div class="step reveal" style="--d:.3s"><i>3</i><h3>Bạn lựa chọn phương án</h3><p>Quyết định sau khi đã hiểu ưu điểm, giới hạn và những việc cần chuẩn bị.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="tu-dang-ky">
+  <div class="container wrap">
+    <div>
+      <span class="eyebrow reveal">03 / Thông tin tham khảo</span>
+      <h2 class="reveal">Tự đăng ký doanh nghiệp<br>bắt đầu từ đâu?</h2>
+      <p class="lead reveal">Sau khi chọn phương án, bạn có thể tự xem thủ tục, chuẩn bị hồ sơ và thực hiện trên hệ thống chính thức.</p>
+      <div class="official reveal">
+        <a class="btn btn-outline" href="https://dangkykinhdoanh.gov.vn" target="_blank" rel="noopener nofollow">Xem hướng dẫn chính thức</a>
+        <p>Liên kết đến Cổng thông tin quốc gia về đăng ký doanh nghiệp.</p>
+      </div>
+    </div>
+    <div>
+      <div class="timeline">
+        <div class="tl reveal"><b>01</b><div><h3>Chọn thông tin doanh nghiệp</h3><p>Thống nhất loại hình, tên, địa chỉ, ngành nghề, vốn, người đại diện và người góp vốn.</p></div></div>
+        <div class="tl reveal" style="--d:.1s"><b>02</b><div><h3>Đối chiếu hồ sơ cần chuẩn bị</h3><p>Xem thủ tục và biểu mẫu hiện hành tương ứng với loại hình trên cổng chính thức.</p></div></div>
+        <div class="tl reveal" style="--d:.2s"><b>03</b><div><h3>Tự kê khai và nộp hồ sơ</h3><p>Chuẩn bị tài liệu, kê khai, xác thực và nộp theo hướng dẫn trên hệ thống chính thức.</p></div></div>
+        <div class="tl reveal" style="--d:.3s"><b>04</b><div><h3>Theo dõi phản hồi của cơ quan đăng ký</h3><p>Kiểm tra tình trạng hồ sơ, bổ sung theo yêu cầu và đối chiếu thông tin trên kết quả.</p></div></div>
+      </div>
+      <p class="disclaimer reveal">Thành phần hồ sơ và yêu cầu cụ thể phụ thuộc loại hình, người tham gia và quy định tại thời điểm thực hiện. Cơ quan đăng ký kinh doanh tiếp nhận, xem xét và quyết định kết quả.</p>
+    </div>
+  </div>
+</section>
+
+<section class="bg" id="khai-thue">
+  <div class="container">
+    <span class="eyebrow reveal">04 / Khai thuế trong năm đầu</span>
+    <h2 class="reveal">Dịch vụ khai thuế dành cho doanh nghiệp mới thành lập</h2>
+    <p class="lead reveal">Bạn cần biết phải khai những loại thuế nào, theo kỳ nào và ai theo dõi việc thực hiện. Vạn Xuân xác định nghĩa vụ, chuẩn bị hồ sơ và theo dõi từng kỳ theo phạm vi đã thống nhất.</p>
+    <h3 class="sub-h reveal">Trong 1 năm, doanh nghiệp phải khai thuế gì?</h3>
+    <p class="lead reveal">Dưới đây là các nghĩa vụ thường gặp. Danh sách cụ thể được xác định theo hoạt động, phương pháp tính thuế và tình trạng doanh nghiệp.</p>
+    <div class="grid-2">
+      <div class="card reveal"><h3>Thuế giá trị gia tăng — GTGT</h3><small>Trong năm · theo tháng hoặc quý</small><p>Xác định phương pháp tính và kỳ khai ngay từ đầu. Doanh nghiệp mới bắt đầu hoạt động được lựa chọn khai theo quý; vẫn cần kiểm tra nghĩa vụ kê khai khi chưa có doanh thu.</p></div>
+      <div class="card reveal" style="--d:.1s"><h3>Thuế thu nhập cá nhân — TNCN</h3><small>Tiền lương, tiền công · khai quý và quyết toán năm</small><p>Theo dõi khoản chi trả, số thuế khấu trừ và hồ sơ khai theo quý. Rà soát quyết toán năm và các trường hợp không phải nộp hồ sơ theo quy định.</p></div>
+      <div class="card reveal"><h3>Thuế thu nhập doanh nghiệp — TNDN</h3><small>Tạm nộp theo quý · quyết toán năm</small><p>Tính số thuế tạm nộp, quyết toán theo nghĩa vụ thực tế và kiểm tra điều kiện miễn, giảm nếu có. Tạm nộp theo quý không đồng nghĩa với việc phải lập tờ khai TNDN quý.</p></div>
+      <div class="card reveal" style="--d:.1s"><h3>Báo cáo tài chính cuối năm</h3><small>Công việc kế toán cần theo dõi riêng</small><p>Rà soát sổ sách và lập báo cáo tài chính theo chế độ kế toán áp dụng. Đây là báo cáo kế toán, không phải một loại tờ khai thuế.</p></div>
+    </div>
+    <p class="notice reveal"><b>Từ năm 2026:</b> không phải khai, nộp lệ phí môn bài cho năm 2026 và các năm tiếp theo. Các nghĩa vụ thuế khác được rà soát theo hoạt động phát sinh.</p>
+    <h3 class="sub-h reveal">Tư vấn khai thuế năm đầu</h3>
+    <ol class="grid-3">
+      <li class="card reveal"><div class="num">01</div><h3>Xác định việc thuế phải làm</h3><p>Rà soát hoạt động, xác định tờ khai áp dụng và lập lịch kê khai, nộp thuế cho từng kỳ.</p></li>
+      <li class="card reveal" style="--d:.08s"><div class="num">02</div><h3>Hướng dẫn chứng từ cần cung cấp</h3><p>Lập danh sách hóa đơn, chứng từ, bảng lương và dữ liệu doanh nghiệp cần bàn giao.</p></li>
+      <li class="card reveal" style="--d:.16s"><div class="num">03</div><h3>Kiểm tra số liệu, lập tờ khai</h3><p>Đối chiếu dữ liệu nhận được; thông báo điểm thiếu, chưa hợp lý trước khi lập hồ sơ.</p></li>
+      <li class="card reveal"><div class="num">04</div><h3>Gửi hồ sơ và số thuế để bạn kiểm tra</h3><p>Làm rõ số liệu kê khai, số thuế dự kiến phải nộp và nội dung cần xác nhận.</p></li>
+      <li class="card reveal" style="--d:.08s"><div class="num">05</div><h3>Theo dõi nộp hồ sơ và bàn giao kết quả</h3><p>Phối hợp ký, nộp theo thẩm quyền hợp lệ; lưu và bàn giao hồ sơ, thông báo của hệ thống.</p></li>
+      <li class="card reveal" style="--d:.16s"><div class="num">06</div><h3>Thực hiện phần việc cuối năm</h3><p>Lập quyết toán thuế, báo cáo tài chính khi thuộc phạm vi hợp đồng và có đủ dữ liệu cần thiết.</p></li>
+    </ol>
+    <p class="disclaimer reveal">Bạn cung cấp chứng từ và xác nhận số liệu. Vạn Xuân thực hiện công việc theo hợp đồng; việc ký, nộp hồ sơ theo thẩm quyền hợp lệ. Phạm vi và phí được thống nhất trước khi thực hiện.</p>
+    <div class="refs reveal">
+      <h4>Căn cứ tham khảo · cập nhật 11/11/2026</h4>
+      <ul>
+        <li>Thông tư 89/2026/TT-BTC — Điều 19, 21, 22</li>
+        <li>Hướng dẫn xác định nghĩa vụ khai, nộp thuế</li>
+        <li>Chế độ kế toán doanh nghiệp — TT 99/2025</li>
+        <li>Hướng dẫn về lệ phí môn bài từ năm 2026</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="container center">
+    <span class="eyebrow reveal">Giải đáp trước khi liên hệ</span>
+    <h2 class="reveal">Câu hỏi thường gặp</h2>
+    <p class="lead reveal">Giải đáp về tư vấn trước khi thành lập và khai thuế trong năm đầu hoạt động.</p>
+  </div>
+  <div class="container">
+    <div class="faq-list">
+      <details class="faq reveal"><summary>Chưa chọn được loại hình hoặc mức vốn, tôi nên chuẩn bị gì?</summary><p>Bạn chỉ cần mô tả hoạt động dự kiến, số người cùng góp vốn, nguồn vốn và kế hoạch phát triển. Vạn Xuân dựa trên các thông tin đó để so sánh phương án và làm rõ trách nhiệm của từng lựa chọn.</p></details>
+      <details class="faq reveal"><summary>Được tư vấn rồi, tôi có thể tự đăng ký doanh nghiệp không?</summary><p>Có. Sau khi lựa chọn thông tin phù hợp, bạn có thể tự tìm hiểu thủ tục, biểu mẫu và nộp hồ sơ trên hệ thống chính thức. Cơ quan đăng ký kinh doanh xem xét, quyết định kết quả; tư vấn không đồng nghĩa với bảo đảm hồ sơ được chấp thuận.</p></details>
+      <details class="faq reveal"><summary>Công ty chưa có doanh thu có phải khai thuế không?</summary><p>Chưa có doanh thu không đồng nghĩa được bỏ toàn bộ hồ sơ thuế. Cần kiểm tra tình trạng hoạt động, từng loại thuế và các trường hợp được miễn nộp hồ sơ. Vạn Xuân xác định nghĩa vụ cụ thể trước khi lập lịch khai thuế cho doanh nghiệp.</p></details>
+      <details class="faq reveal"><summary>Vạn Xuân có làm quyết toán thuế và báo cáo tài chính cuối năm không?</summary><p>Có thể đưa vào phạm vi dịch vụ. Vạn Xuân rà soát dữ liệu kế toán, tình trạng hồ sơ và nhu cầu để thống nhất công việc, trách nhiệm cung cấp chứng từ và mức phí. Bạn cần xác định rõ phần cuối năm có trong hợp đồng trước khi sử dụng dịch vụ.</p></details>
+      <details class="faq reveal"><summary>Phí tư vấn và khai thuế được tính thế nào?</summary><p>Phí tư vấn phụ thuộc vấn đề và mức độ phức tạp. Phí khai thuế phụ thuộc hoạt động, khối lượng chứng từ, kỳ cần xử lý và phạm vi công việc. Vạn Xuân thống nhất nội dung và mức phí trước khi thực hiện; phần phát sinh được trao đổi riêng.</p></details>
+      <details class="faq reveal"><summary>Tôi cần gửi giấy tờ gì khi liên hệ lần đầu?</summary><p>Bạn chỉ cần cung cấp tên, số liên hệ và nhu cầu. Vạn Xuân sẽ hướng dẫn hồ sơ cần thiết sau khi trao đổi. Không gửi giấy tờ định danh, mật khẩu hoặc thông tin đăng nhập qua biểu mẫu này.</p></details>
+    </div>
+  </div>
+</section>
+
+<section class="dark" id="lien-he">
+  <div class="container wrap">
+    <div>
+      <span class="eyebrow reveal">Liên hệ</span>
+      <h2 class="reveal">Nhận tư vấn trước khi thành lập</h2>
+      <p class="lead reveal" style="margin-bottom:22px">Bạn chỉ cần cung cấp tên, số liên hệ và nhu cầu. Vạn Xuân sẽ hướng dẫn hồ sơ cần thiết sau khi trao đổi.</p>
+      <ul class="info reveal">
+        <li><svg class="ic"><use href="#i-home"/></svg><span><b>CÔNG TY TNHH DỊCH VỤ DOANH NGHIỆP VẠN XUÂN</b></span></li>
+        <li><svg class="ic"><use href="#i-pin"/></svg><span><b>Trụ sở:</b> Số 01, Đường số 05, KDC Lê Thành, P. An Lạc, TP.HCM<br><b>CN Quận 10:</b> 459 Sư Vạn Hạnh, phường Hòa Hưng, TP.HCM<br><b>CN Bình Thạnh:</b> Số 205A Đường Nguyễn Xí, Phường Bình Thạnh, TP.HCM<br><b>CN Thủ Đức:</b> Tòa A Masteri Centre Point, Số 6 đường D1, KĐT Vinhomes Grand Park, P. Long Bình, TP.HCM</span></li>
+        <li><svg class="ic"><use href="#i-phone"/></svg><span><b>Hotline:</b> <a href="tel:0933337683">09 3333 7683</a></span></li>
+        <li><svg class="ic"><use href="#i-mail"/></svg><span><b>Email:</b> <a href="mailto:kttvanxuan@gmail.com">kttvanxuan@gmail.com</a></span></li>
+        <li><svg class="ic"><use href="#i-clock"/></svg><span><b>Giờ làm việc:</b> Thứ 2 – Thứ 6: 07:50 – 17:00 · Thứ 7: 07:50 – 12:00</span></li>
+      </ul>
+    </div>
+    <form id="leadForm" class="reveal" novalidate>
+      <h3>Đăng ký nhận tư vấn</h3>
+      <p>Nội dung và phí tư vấn được thống nhất trước khi thực hiện.</p>
+      <div class="field"><label for="fName">Họ và tên *</label><input id="fName" name="name" required autocomplete="name" placeholder="Nguyễn Văn A"></div>
+      <div class="field"><label for="fPhone">Số điện thoại *</label><input id="fPhone" name="phone" required inputmode="tel" autocomplete="tel" pattern="^(0|\+84)[0-9]{9,10}$" placeholder="09xx xxx xxx"></div>
+      <div class="field"><label for="fNeed">Nhu cầu</label>
+        <select id="fNeed" name="need"><option>Tư vấn trước khi thành lập</option><option>Tư vấn khai thuế năm đầu</option><option>Nội dung khác</option></select></div>
+      <div class="field"><label for="fNote">Nội dung cần trao đổi</label><textarea id="fNote" name="note" rows="3" placeholder="Hoạt động dự kiến, số người góp vốn, điều bạn còn phân vân…"></textarea></div>
+      <label class="consent"><input type="checkbox" required><span>Tôi đồng ý để Vạn Xuân sử dụng thông tin trên nhằm liên hệ tư vấn theo <a href="#" data-modal="privacy">Chính sách bảo mật</a>.</span></label>
+      <button class="btn btn-primary" type="submit">Gửi yêu cầu tư vấn</button>
+      <div class="form-msg" id="formMsg" role="status"></div>
+      <p class="warn">Không gửi giấy tờ định danh, mật khẩu hoặc thông tin đăng nhập qua biểu mẫu này.</p>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="grid-3" style="margin-top:0">
+      <div>
+        <h4>CÔNG TY TNHH DỊCH VỤ DOANH NGHIỆP VẠN XUÂN</h4>
+        <ul>
+          <li>Trụ sở: Số 01, Đường số 05, KDC Lê Thành, P. An Lạc, TP.HCM</li>
+          <!-- BỔ SUNG: mã số doanh nghiệp / mã số thuế -->
+          <li>Hotline: <a href="tel:0933337683">09 3333 7683</a> · Email: <a href="mailto:kttvanxuan@gmail.com">kttvanxuan@gmail.com</a></li>
+          <li>Website: <a href="https://ketoanvanxuan.vn/">ketoanvanxuan.vn</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Nội dung</h4>
+        <ul>
+          <li><a href="#noi-dung">Tư vấn trước khi thành lập</a></li>
+          <li><a href="#quy-trinh">Quy trình tư vấn</a></li>
+          <li><a href="#tu-dang-ky">Tự đăng ký doanh nghiệp</a></li>
+          <li><a href="#khai-thue">Khai thuế trong năm đầu</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Chính sách</h4>
+        <ul>
+          <li><button data-modal="privacy">Chính sách bảo mật</button></li>
+          <li><button data-modal="terms">Điều khoản sử dụng</button></li>
+          <li><button data-modal="fee">Chính sách phí &amp; hoàn phí</button></li>
+          <li><a href="https://dangkykinhdoanh.gov.vn" target="_blank" rel="noopener nofollow">Cổng thông tin quốc gia về đăng ký doanh nghiệp</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="legal">
+      <p><strong>Tuyên bố miễn trừ:</strong> Vạn Xuân là đơn vị tư vấn pháp lý tư nhân, không phải là cơ quan nhà nước hay cổng dịch vụ công của chính phủ. Phí trên trang là phí dịch vụ tư vấn của Vạn Xuân, không phải lệ phí nhà nước. Bạn có thể tự thực hiện thủ tục trực tiếp trên hệ thống chính thức của cơ quan đăng ký kinh doanh.</p>
+      <p>Cơ quan đăng ký kinh doanh xem xét, quyết định kết quả; tư vấn không đồng nghĩa với bảo đảm hồ sơ được chấp thuận.</p>
+      <p>© <span id="year"></span> Kế toán Vạn Xuân. Luôn đồng hành cùng Doanh nghiệp.</p>
+    </div>
+  </div>
+</footer>
+
+<div class="fab">
+  <a class="zalo" href="https://zalo.me/0933337683" target="_blank" rel="noopener" aria-label="Nhắn Zalo">Zalo</a>
+  <a class="call" href="tel:0933337683" aria-label="Gọi tư vấn"><svg class="ic"><use href="#i-phone"/></svg></a>
+</div>
+<div class="mobile-bar">
+  <a href="tel:0933337683">Gọi tư vấn</a>
+  <a href="https://zalo.me/0933337683" target="_blank" rel="noopener">Nhắn Zalo</a>
+  <a href="#lien-he">Nhận tư vấn</a>
+</div>
+<div class="modal" id="modal" role="dialog" aria-modal="true">
+  <div class="modal-box"><button class="modal-close" aria-label="Đóng">×</button><div id="modalBody"></div></div>
+</div>
+
+<script>
+// Dán URL nhận dữ liệu biểu mẫu (CRM / webhook). Để trống: biểu mẫu mở email gửi tới Vạn Xuân.
+const FORM_ENDPOINT="";
+const CONTACT_EMAIL="kttvanxuan@gmail.com";
+// Tải 4 file lên hosting rồi sửa đường dẫn cho khớp (ảnh hero trùng với og:image và preload trong <head>).
+const MEDIA={
+  team:"https://ketoanvanxuan.vn/upload/landing/doi-ngu-van-xuan.jpg",
+  photo1:"https://ketoanvanxuan.vn/upload/landing/chung-nhan-attp-quan-do-uong.jpg",
+  photo2:"https://ketoanvanxuan.vn/upload/landing/ho-so-tiem-banh.jpg",
+  video:"https://ketoanvanxuan.vn/upload/landing/van-xuan-video.mp4"
+};
+document.querySelectorAll("[data-media]").forEach(el=>{
+  const u=MEDIA[el.dataset.media]; if(u) el.src=el.tagName==="VIDEO"?u+"#t=0.1":u;
+});
+
+const TOPICS=[
+ {t:"Lựa chọn loại hình",q:"Công ty TNHH hay công ty cổ phần?",d:"Chọn theo số người góp vốn, cách quản lý và kế hoạch phát triển.",
+  l:["So sánh công ty TNHH một thành viên, hai thành viên trở lên và công ty cổ phần.","Phân tích quyền quyết định, trách nhiệm tài sản và cơ cấu quản lý của từng loại hình.","Cân nhắc nhu cầu gọi vốn, thêm người góp vốn và chuyển nhượng về sau."],
+  r:"Hiểu loại hình nào phù hợp và vì sao nên chọn.",c:"Trao đổi về lựa chọn loại hình"},
+ {t:"Tên công ty",q:"Tên dự kiến có trùng hoặc gây nhầm lẫn không?",d:"Chọn tên đúng quy định, dễ nhớ và thống nhất trong hồ sơ, giao dịch.",
+  l:["Rà soát tên dự kiến so với tên doanh nghiệp đã đăng ký trên toàn quốc.","Kiểm tra cấu trúc tên: loại hình doanh nghiệp và tên riêng; từ ngữ, ký hiệu không được sử dụng.","Cân nhắc tên tiếng Việt, tên tiếng nước ngoài, tên viết tắt và nhu cầu bảo hộ nhãn hiệu về sau."],
+  r:"Biết tên nào có thể sử dụng và điểm cần điều chỉnh.",c:"Trao đổi về tên công ty"},
+ {t:"Địa chỉ trụ sở",q:"Địa chỉ dự kiến có được đặt trụ sở không?",d:"Kiểm tra chức năng sử dụng của địa điểm trước khi đăng ký.",
+  l:["Phân biệt chung cư để ở và công trình hỗn hợp có chức năng thương mại, văn phòng.","Rà soát giấy tờ về quyền sử dụng địa điểm: nhà riêng, nhà thuê, văn phòng.","Lưu ý về cơ quan thuế quản lý và việc thay đổi địa chỉ sau này."],
+  r:"Rõ địa chỉ có phù hợp để đặt trụ sở và giấy tờ cần chuẩn bị.",c:"Trao đổi về địa chỉ trụ sở"},
+ {t:"Ngành nghề kinh doanh",q:"Đăng ký ngành nghề nào cho đúng nhu cầu?",d:"Chọn mã ngành theo hoạt động thực tế và kế hoạch mở rộng.",
+  l:["Đối chiếu hoạt động dự kiến với hệ thống ngành kinh tế hiện hành.","Xác định ngành nghề kinh doanh có điều kiện và giấy phép cần có trước khi hoạt động.","Cân nhắc ngành nghề chính, ngành nghề bổ sung cho giai đoạn tiếp theo."],
+  r:"Danh sách ngành nghề phù hợp và điều kiện kèm theo.",c:"Trao đổi về ngành nghề"},
+ {t:"Vốn điều lệ",q:"Đăng ký mức vốn bao nhiêu là phù hợp?",d:"Chọn theo khả năng góp vốn thực tế, yêu cầu ngành nghề và nhu cầu giao dịch.",
+  l:["Làm rõ ý nghĩa của vốn điều lệ đối với trách nhiệm tài sản của người góp vốn.","Kiểm tra ngành nghề có yêu cầu vốn pháp định, ký quỹ hay không.","Rà soát thời hạn góp vốn, hình thức góp vốn và việc cần làm khi không góp đủ."],
+  r:"Hiểu mức vốn phù hợp và nghĩa vụ góp vốn phải thực hiện.",c:"Trao đổi về vốn điều lệ"},
+ {t:"Người đại diện theo pháp luật",q:"Ai nên là người đại diện theo pháp luật?",d:"Xác định đúng người, đúng chức danh và phạm vi quyền hạn.",
+  l:["Rà soát điều kiện, tư cách của người dự kiến làm đại diện.","Phân tích quyền, nghĩa vụ và trách nhiệm cá nhân của người đại diện.","Cân nhắc chức danh, số lượng người đại diện và việc ủy quyền khi vắng mặt."],
+  r:"Rõ ai đại diện, quyền quyết định và trách nhiệm đi kèm.",c:"Trao đổi về người đại diện"},
+ {t:"Người góp vốn",q:"Phân chia tỷ lệ góp vốn thế nào?",d:"Thống nhất tỷ lệ, quyền biểu quyết và cách xử lý khi có thay đổi.",
+  l:["Rà soát tư cách của cá nhân, tổ chức tham gia góp vốn.","Phân tích tỷ lệ góp vốn gắn với quyền biểu quyết và quyền quyết định các vấn đề quan trọng.","Lưu ý các nội dung nên thỏa thuận trước: phân chia lợi nhuận, chuyển nhượng, rút vốn."],
+  r:"Hiểu quyền và nghĩa vụ của từng người góp vốn.",c:"Trao đổi về người góp vốn"}
+];
+const pad=n=>String(n).padStart(2,"0");
+const tabList=document.getElementById("tabList"),tabPanel=document.getElementById("tabPanel");
+function showTopic(i){
+  const x=TOPICS[i];
+  [...tabList.children].forEach((b,k)=>{b.classList.toggle("active",k===i);b.setAttribute("aria-selected",k===i)});
+  tabPanel.classList.remove("swap");void tabPanel.offsetWidth;tabPanel.classList.add("swap");
+  tabPanel.innerHTML=`<div class="panel-top"><span>NỘI DUNG TƯ VẤN</span><span><b>${pad(i+1)}</b> / ${pad(TOPICS.length)}</span></div>
+  <span class="kicker">${x.t}</span><h3>${x.q}</h3><p>${x.d}</p>
+  <ul>${x.l.map(s=>`<li>${s}</li>`).join("")}</ul>
+  <div class="result"><small>Điều bạn nhận được</small><p>${x.r}</p></div>
+  <a href="#lien-he" class="btn btn-primary" data-topic="${x.t}">${x.c}</a>`;
+}
+TOPICS.forEach((x,i)=>{
+  const b=document.createElement("button");b.className="tab-btn";b.setAttribute("role","tab");
+  b.innerHTML=`<span>${pad(i+1)}</span>${x.t}`;b.onclick=()=>showTopic(i);tabList.appendChild(b);
+});
+showTopic(0);
+
+// FAQ: chỉ mở một câu, và tạo FAQ schema từ nội dung đang hiển thị
+const faqs=[...document.querySelectorAll(".faq")];
+faqs.forEach(d=>d.addEventListener("toggle",()=>{if(d.open)faqs.forEach(o=>{if(o!==d)o.open=false})}));
+const ld=document.createElement("script");ld.type="application/ld+json";
+ld.textContent=JSON.stringify({"@context":"https://schema.org","@type":"FAQPage",mainEntity:faqs.map(d=>({"@type":"Question",name:d.querySelector("summary").textContent,acceptedAnswer:{"@type":"Answer",text:d.querySelector("p").textContent}}))});
+document.head.appendChild(ld);
+
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add("in");io.unobserve(e.target)}}),{threshold:.1});
+document.querySelectorAll(".reveal").forEach(el=>io.observe(el));
+const header=document.getElementById("header");
+const onScroll=()=>header.classList.toggle("scrolled",scrollY>30);
+addEventListener("scroll",onScroll,{passive:true});onScroll();
+document.getElementById("year").textContent=new Date().getFullYear();
+
+const form=document.getElementById("leadForm"),msg=document.getElementById("formMsg");
+form.addEventListener("submit",async e=>{
+  e.preventDefault();
+  if(!form.checkValidity()){form.reportValidity();return}
+  const data=Object.fromEntries(new FormData(form));
+  const show=(t,ok=true)=>{msg.style.display="block";msg.style.background=ok?"#e8f8ef":"#fdecec";msg.style.color=ok?"#136c3c":"#a11";msg.textContent=t};
+  if(FORM_ENDPOINT){
+    try{
+      const r=await fetch(FORM_ENDPOINT,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(data)});
+      if(!r.ok)throw 0;
+      show("Vạn Xuân đã nhận thông tin và sẽ liên hệ lại trong giờ làm việc.");form.reset();
+    }catch{show("Chưa gửi được yêu cầu. Vui lòng gọi 09 3333 7683 hoặc nhắn Zalo.",false)}
+  }else{
+    const body=`Họ tên: ${data.name}\nSố điện thoại: ${data.phone}\nNhu cầu: ${data.need}\nNội dung: ${data.note||""}`;
+    location.href=`mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent("Yêu cầu tư vấn trước khi thành lập")}&body=${encodeURIComponent(body)}`;
+    show("Ứng dụng email đang mở để bạn gửi yêu cầu. Bạn cũng có thể gọi 09 3333 7683.");
+  }
+});
+
+const POLICIES={
+ privacy:`<h3>Chính sách bảo mật</h3>
+  <h4>1. Thông tin thu thập</h4><p>Họ tên, số điện thoại, nhu cầu và nội dung bạn tự nguyện cung cấp qua biểu mẫu, điện thoại hoặc Zalo.</p>
+  <h4>2. Mục đích sử dụng</h4><p>Liên hệ tư vấn theo yêu cầu của bạn và thống nhất nội dung, phí dịch vụ. Vạn Xuân không bán hoặc chia sẻ thông tin cho bên thứ ba vì mục đích quảng cáo.</p>
+  <h4>3. Lưu trữ và bảo vệ</h4><p>Thông tin được lưu trữ nội bộ, giới hạn người truy cập và chỉ giữ trong thời gian cần thiết hoặc theo quy định pháp luật.</p>
+  <h4>4. Quyền của bạn</h4><p>Bạn có quyền yêu cầu xem, chỉnh sửa, xóa thông tin hoặc rút lại sự đồng ý qua email kttvanxuan@gmail.com hoặc số 09 3333 7683.</p>
+  <h4>5. Cookie và công cụ đo lường</h4><p>Trang có thể sử dụng cookie và công cụ đo lường (ví dụ Google Analytics, Google Ads) để thống kê lượt truy cập và hiệu quả quảng cáo. Bạn có thể tắt cookie trong trình duyệt.</p>`,
+ terms:`<h3>Điều khoản sử dụng</h3>
+  <h4>1. Về Vạn Xuân</h4><p>Công ty TNHH Dịch vụ Doanh nghiệp Vạn Xuân là đơn vị tư vấn pháp lý tư nhân, không phải là cơ quan nhà nước hay cổng dịch vụ công của chính phủ.</p>
+  <h4>2. Tính chất thông tin</h4><p>Nội dung trên trang mang tính tham khảo chung, không thay thế tư vấn cho từng trường hợp cụ thể. Quy định có thể thay đổi theo thời điểm thực hiện.</p>
+  <h4>3. Kết quả thủ tục</h4><p>Cơ quan đăng ký kinh doanh và cơ quan thuế tiếp nhận, xem xét và quyết định kết quả. Tư vấn không đồng nghĩa với bảo đảm hồ sơ được chấp thuận.</p>
+  <h4>4. Tự thực hiện</h4><p>Bạn có thể tự thực hiện thủ tục trên hệ thống chính thức của cơ quan nhà nước mà không cần sử dụng dịch vụ của Vạn Xuân.</p>`,
+ fee:`<h3>Chính sách phí &amp; hoàn phí</h3>
+  <h4>1. Phí dịch vụ</h4><p>Mức phí nêu trên trang là phí dịch vụ tư vấn của Vạn Xuân, không bao gồm lệ phí nhà nước (nếu có). Nội dung và phí được thống nhất trước khi thực hiện; phần phát sinh được trao đổi riêng.</p>
+  <h4>2. Thanh toán</h4><p>Thanh toán theo thỏa thuận hoặc hợp đồng dịch vụ giữa hai bên; Vạn Xuân xuất hóa đơn theo quy định.</p>
+  <h4>3. Hủy và hoàn phí</h4><p>Trường hợp bạn hủy trước khi Vạn Xuân bắt đầu thực hiện, hoặc Vạn Xuân không thực hiện được công việc đã thống nhất, việc hoàn phí được giải quyết theo thỏa thuận, hợp đồng đã ký. Vui lòng liên hệ 09 3333 7683 để được hỗ trợ.</p>`
+};
+const modal=document.getElementById("modal"),modalBody=document.getElementById("modalBody");
+document.addEventListener("click",e=>{
+  const tp=e.target.closest("[data-topic]");
+  if(tp)document.getElementById("fNote").value="Tôi cần trao đổi về: "+tp.dataset.topic;
+  const t=e.target.closest("[data-modal]");
+  if(t){e.preventDefault();modalBody.innerHTML=POLICIES[t.dataset.modal];modal.classList.add("show");return}
+  const z=e.target.closest("[data-zoom]");
+  if(z){
+    modalBody.innerHTML="";
+    const im=document.createElement("img");im.className="zoom";im.src=z.src;im.alt=z.alt;
+    const cap=document.createElement("p");cap.textContent=z.alt;
+    modalBody.append(im,cap);modal.classList.add("show");return;
+  }
+  if(e.target===modal||e.target.closest(".modal-close"))modal.classList.remove("show");
+});
+addEventListener("keydown",e=>{if(e.key==="Escape")modal.classList.remove("show")});
+</script>
+</body>
+</html>

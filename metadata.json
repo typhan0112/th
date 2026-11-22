@@ -1,0 +1,6 @@
+{
+  "name": "Kế toán Vạn Xuân — Tư vấn trước khi thành lập công ty",
+  "description": "Website tư vấn trước khi thành lập công ty và khai thuế năm đầu tại TP.HCM của Công ty TNHH Dịch vụ Doanh nghiệp Vạn Xuân.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

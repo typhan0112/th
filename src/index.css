@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --font-sans: "Be Vietnam Pro", system-ui, -apple-system, sans-serif;
+  --color-navy-950: #051d2e;
+  --color-navy-900: #072b42;
+  --color-navy-800: #0b3c5c;
+  --color-brand-500: #0f8ec4;
+  --color-brand-600: #0a709c;
+  --color-brand-100: #e7f4fb;
+  --color-brand-50: #f4f9fc;
+  --color-gold-400: #f4be44;
+  --color-gold-600: #b57c08;
+  --color-ink-900: #102536;
+  --color-ink-600: #4c6477;
+  --color-line-200: #d9e6ef;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 84px;
+    font-family: var(--font-sans);
+    color: var(--color-ink-900);
+    background-color: #ffffff;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    text-wrap: balance;
+  }
+
+  button,
+  a,
+  input,
+  select,
+  textarea {
+    outline-color: var(--color-brand-500);
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
